@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Byron Academic</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Byron Academic</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jan 2026 16:11:41 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Interests</title>
+      <link>http://localhost:1313/posts/research-interests/</link>
+      <pubDate>Sun, 18 Jan 2026 16:11:41 -0600</pubDate>
+      <guid>http://localhost:1313/posts/research-interests/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;My current research focuses on the intersection of &lt;strong&gt;[Insert Field]&lt;/strong&gt; and &lt;strong&gt;[Insert Application]&lt;/strong&gt;. I am particularly interested in how we can use computational tools to solve complex real-world problems.&lt;/p&gt;
+&lt;h2 id=&#34;primary-research-areas&#34;&gt;Primary Research Areas&lt;/h2&gt;
+&lt;h3 id=&#34;1-specific-topic-a&#34;&gt;1. [Specific Topic A]&lt;/h3&gt;
+&lt;p&gt;Explain a bit about your first interest here. What is the problem you are looking at? Why does it matter?&lt;/p&gt;
+&lt;h3 id=&#34;2-specific-topic-b&#34;&gt;2. [Specific Topic B]&lt;/h3&gt;
+&lt;p&gt;Describe your second area of interest. Mention any specific methodologies or tools you enjoy using (e.g., Python, R, Hugo, etc.).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

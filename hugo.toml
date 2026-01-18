@@ -1,0 +1,40 @@
+baseURL = 'https://ByronXia.github.io/'
+languageCode = 'en-us'
+title = 'Byron Academic'
+theme = 'PaperMod'
+
+[params]
+    env = "production"
+    title = "Byron's Portfolio"
+    description = "Academic and Research Portfolio"
+    author = "Byron"
+
+    # --- Profile Mode (The "Business Card" look) ---
+    [params.profileMode]
+        enabled = true
+        title = "Byron [Your Last Name]"
+        subtitle = "Research Interests | Academic Portfolio"
+        imageUrl = "profile.jpg" # Drop a photo named profile.jpg in your 'static' folder
+        imageWidth = 120
+        imageHeight = 120
+
+    # --- Social Icons ---
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/ByronXia"
+    [[params.socialIcons]]
+        name = "email"
+        url = "mailto:hxia36@wisc.edu"
+
+# --- Navigation Menu (Top Right) ---
+[menu]
+    [[menu.main]]
+        identifier = "research"
+        name = "Research"
+        url = "/posts/research-interests/"
+        weight = 10
+    [[menu.main]]
+        identifier = "posts"
+        name = "All Posts"
+        url = "/posts/"
+        weight = 20
