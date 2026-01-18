@@ -12,9 +12,9 @@ theme = 'PaperMod'
     # --- Profile Mode (The "Business Card" look) ---
     [params.profileMode]
         enabled = true
-        title = "Byron [Your Last Name]"
+        title = "Byron Xia"
         subtitle = "Research Interests | Academic Portfolio"
-        imageUrl = "profile.jpg" # Drop a photo named profile.jpg in your 'static' folder
+        imageUrl = "profile.JPG" # Drop a photo named profile.jpg in your 'static' folder
         imageWidth = 120
         imageHeight = 120
 
